@@ -1,0 +1,3 @@
+[2019-01-06 11:49:04.526] [main] [info] update#setState idle
+[2019-01-06 11:49:07.080] [main] [error] update#checkForSnapUpdate(): Could not get realpath of application.
+[2019-01-06 11:49:22.327] [main] [error] update#checkForSnapUpdate(): Could not get realpath of application.
