@@ -20,5 +20,5 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 /.vagrant
-
+/logs/
 # End of https://www.gitignore.io/api/laravel
