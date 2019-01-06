@@ -1,0 +1,34 @@
+{
+    "telemetry.machineId": "0b9b19022de0d3abdbe4fa59964ac1361ac47543a6a2f088a10b095121b91608",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/projects/caleb_games",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///projects/caleb_games/.git",
+            "file:///projects/caleb_games",
+            "file:///projects/caleb_games/blog"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/projects/caleb_games/.git",
+                "external": "file:///projects/caleb_games/.git",
+                "path": "/projects/caleb_games/.git",
+                "scheme": "file"
+            },
+            "backupPath": "/projects/caleb_games/blog/Backups/9405d440880eb7639292f2148fb5f2fb",
+            "uiState": {
+                "mode": 1,
+                "x": 67,
+                "y": 27,
+                "width": 927,
+                "height": 1053
+            }
+        }
+    }
+}
