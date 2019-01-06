@@ -1,0 +1,33 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /projects/caleb_games
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :blog/.gitignore
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git ls-tree -l HEAD -- /projects/caleb_games/blog/.gitignore
+> git show 59e8f458b0a1f318d0fc9a979dfe5831ba53110e
+> git show HEAD:blog/.gitignore
+> git check-ignore -z --stdin
+> git show :blog/.gitignore
+> git check-ignore -z --stdin
+> git ls-tree -l HEAD -- /projects/caleb_games/blog/Cache/data_0
+> git show 94cd7aa40d69b358cd72b125bb99064b17e1765e
+> git show :blog/.gitignore
+> git check-ignore -z --stdin
+> git add -A -- .

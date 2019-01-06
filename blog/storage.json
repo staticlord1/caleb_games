@@ -8,5 +8,25 @@
             "file:///projects/caleb_games/blog"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/projects/caleb_games/blog",
+                "external": "file:///projects/caleb_games/blog",
+                "path": "/projects/caleb_games/blog",
+                "scheme": "file"
+            },
+            "backupPath": "/projects/caleb_games/blog/Backups/cc8b157881e5a6e482a930769795fef9",
+            "uiState": {
+                "mode": 1,
+                "x": 448,
+                "y": 156,
+                "width": 1024,
+                "height": 768
+            }
+        }
     }
 }
